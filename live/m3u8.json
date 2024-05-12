@@ -9,16 +9,16 @@
       "url": "https://jancdn-b.bunycdn.com/live/indexa22.m3u8"
     },
     {
-      "language": "Gujarati",
-      "url": "https://prod-sports-north-cf.jiocinema.com/hls/live/2109750/hd_akamai_androidmob_avc_guj_ipl_s1_m1100524/master.m3u8"
+      "language": "Hindi 720",
+      "url": "https://jancdn-b.bunycdn.com/live/720pa.m3u8"
     },
     {
-      "language": "Kannada",
-      "url": "http://prod-sports-south.jiocinema.com/hls/live/2109724/hd_akamai_androidmob_avc_kan_ipl_s1_m1100524/master.m3u8"
+      "language": "Hindi 360",
+      "url": "https://jancdn-b.bunycdn.com/live/360pa.m3u8"
     },
     {
-      "language": "Marathi",
-      "url": "http://prod-sports-north-cf.jiocinema.com/hls/live/2109768/hd_akamai_androidmob_avc_mar_ipl_s1_m1100524/master.m3u8"
+      "language": "Hindi 480",
+      "url": "https://jancdn-b.bunycdn.com/live/480pa.m3u8"
     },
     {
       "language": "Malayalam",
