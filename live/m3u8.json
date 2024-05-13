@@ -45,8 +45,16 @@
       "url": "http://prod-sports-south-fa.jiocinema.com/hls/live/2109718/hd_akamai_androidmob_avc_tel_ipl_s1_m1100524/mmaster.m3u8"
     },
     {
-      "language": "Odia",
-      "url": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/PhRob-aHeNnxMrNK5xsmxq0Owlgxfx60rnn4_gVNBhYCZTsOZUudFuxm5-b05QyjKE-Ccj4B6dVAVw9S-RUdvQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live"
+      "language": "Sky sports cricket 1",
+      "url": "http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2090.ts"
+    },
+    {
+      "language": "Star sports1",
+      "url": "http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts"
+    },
+    {
+      "language": "sky sports cricket 2",
+      "url": "http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2143.ts"
     }
   ]
 }
